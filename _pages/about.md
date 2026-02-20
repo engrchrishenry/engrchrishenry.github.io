@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Chris Henry
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>University of Missouri-Kansas City</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: left
@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student working at the Multimedia Computing & Communication Lab with Prof. Zhu Li at the University of Missouri-Kansas City, USA. I interned at AtomBeam Technologies as an Intern Research Scientist/Consultant during Summer/Fall 2024. During Summer 2023, I interned at the Thales Group's Digital Identity and Security division in Pasadena, CA, USA under the supervision of Dr. Yi Ding. 
+I am a PhD student working at the [Multimedia Computing & Communication Lab](http://l.web.umkc.edu/lizhu/) with [Prof. Zhu Li](http://l.web.umkc.edu/lizhu/) at the [University of Missouri-Kansas City, USA](https://www.umkc.edu/). I interned at [AtomBeam Technologies](https://www.atombeamtech.com/) as an Intern Research Scientist/Consultant during Summer/Fall 2024. During Summer 2023, I interned at the [Thales Group](https://www.thalesgroup.com/en)'s Digital Identity and Security division in Pasadena, CA, USA under the supervision of [Dr. Yi Ding](https://www.linkedin.com/in/yi-ding-8b936352/). 
 
-I earned my ME degree in 2019 from Gachon University, South Korea and BE degree in 2015 from Hamdard University, Pakistan. At Gachon University, I worked as a research assistant at the Pattern Recognition & Machine Learning Lab with Prof. Sang-Woong Lee. My research interests broadly include image processing, computer vision and deep learning.
+I earned my ME degree in 2019 from [Gachon University](https://www.gachon.ac.kr/english/), South Korea and BE degree in 2015 from [Hamdard University](https://www.hamdard.edu.pk/), Pakistan. At Gachon University, I worked as a research assistant at the [Pattern Recognition & Machine Learning Lab](http://pr.gachon.ac.kr/) with [Prof. Sang-Woong Lee](http://slee.gachon.ac.kr/). My research interests broadly include image processing, computer vision and deep learning.
 
 During my free time, I love to play video games and watch memes.
 
