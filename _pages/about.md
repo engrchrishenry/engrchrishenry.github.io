@@ -188,6 +188,48 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
 
 #### Full list of publications available on [Google Scholar](https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en).
 
+## Academic Services
+
+<div style="font-size:0.90em; line-height:1.5em;">
+
+<p style="margin:0 0 0.3em 0;">
+<strong>Invited Reviewer</strong>, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025, 2026
+</p>
+
+<p style="margin:0 0 0.3em 0;">
+<strong>Invited Reviewer</strong>, IEEE Transactions on Image Processing (T-IP), 2024
+</p>
+
+<p style="margin:0 0 0.3em 0;">
+<strong>Program Committee Member</strong>, ACM International Conference on Multimedia Retrieval (ICMR), 2024
+</p>
+
+<p style="margin:0 0 0.3em 0;">
+<strong>Invited Reviewer</strong>, IEEE International Conference on Image Processing (ICIP), 2023
+</p>
+
+<p style="margin:0 0 0.3em 0;">
+<strong>Invited Reviewer</strong>, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023
+</p>
+
+<p style="margin:0 0 0.3em 0;">
+<strong>Invited Reviewer</strong>, IEEE Transactions on Image Processing (T-IP), 2022
+</p>
+
+<p style="margin:0 0 0.3em 0;">
+<strong>Invited Reviewer</strong>, IEEE International Conference on Image Processing (ICIP), 2022
+</p>
+
+<p style="margin:0 0 0.3em 0;">
+<strong>Invited Reviewer</strong>, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022
+</p>
+
+<p style="margin:0;">
+<strong>Invited Reviewer</strong>, IEEE Access, 2019
+</p>
+
+</div>
+
 <style>
 .pub-thumbnail {
   width: 100%;
