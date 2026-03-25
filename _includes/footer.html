@@ -2,9 +2,7 @@
   <span class="footer-left">
     © {{ site.time | date: '%Y' }} Chris Henry. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
   </span>
-  {% if page.last_modified_at %}
   <span class="footer-right">
-    Last updated: {{ page.last_modified_at | date: "%b %-d, %Y" }}
+    Last updated: {{ site.time | date: "%b %-d, %Y" }}
   </span>
-  {% endif %}
 </div>
