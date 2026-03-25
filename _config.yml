@@ -315,11 +315,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-  # - jekyll-last-modified-at
-
-# last_modified_at:
-#   enabled: true
-#   date_format: "%b %-d, %Y"  # e.g., Mar 25, 2026
 
 port: 4001
 
