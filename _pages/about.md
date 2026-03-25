@@ -16,11 +16,9 @@ During my free time, I love to play video games and watch memes. -->
 ## About Me
 <div style="font-size:0.90em; line-height:1.5em;">
 
-I am a PhD student working at the <a href="http://l.web.umkc.edu/lizhu/" target="_blank">Multimedia Computing & Communication Lab</a> with <a href="http://l.web.umkc.edu/lizhu/" target="_blank">Prof. Zhu Li</a> at the <a href="https://www.umkc.edu/" target="_blank">University of Missouri-Kansas City</a>, USA. I interned at <a href="https://www.atombeamtech.com/" target="_blank">AtomBeam Technologies</a> as an Intern Research Scientist/Consultant during Summer/Fall 2024. During Summer 2023, I interned at the <a href="https://www.thalesgroup.com/en" target="_blank">Thales</a> Group's Digital Identity and Security division in Pasadena, CA, USA under the supervision of Dr. Yi Ding.<br><br>
+I am a PhD student working at the <a href="http://l.web.umkc.edu/lizhu/" target="_blank">Multimedia Computing & Communication Lab</a> with <a href="http://l.web.umkc.edu/lizhu/" target="_blank">Prof. Zhu Li</a> at the <a href="https://www.umkc.edu/" target="_blank">University of Missouri-Kansas City</a>, USA. I was an Intern Research Scientist/Consultant at <a href="https://www.atombeamtech.com/" target="_blank">AtomBeam Technologies</a> and a PhD Intern at <a href="https://www.thalesgroup.com/en" target="_blank">Thales</a> in Pasadena, CA, USA.<br><br>
 
-I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/index.do" target="_blank">Gachon University</a>, South Korea, and BE degree in 2015 from <a href="https://www.hamdard.edu.pk/" target="_blank">Hamdard University</a>, Pakistan. At Gachon University, I worked as a research assistant at the <a href="http://pr.gachon.ac.kr/" target="_blank">Pattern Recognition & Machine Learning Lab</a> with Prof. Sang-Woong Lee.<br><br>
-
-My research interests broadly include image processing, computer vision, and deep learning. During my free time, I love to play video games and watch memes.
+I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/index.do" target="_blank">Gachon University</a>, South Korea, and BE degree in 2015 from <a href="https://www.hamdard.edu.pk/" target="_blank">Hamdard University</a>, Pakistan. At Gachon University, I was a research assistant at the <a href="http://pr.gachon.ac.kr/" target="_blank">Pattern Recognition & Machine Learning Lab</a> with <a href="https://pr.gachon.ac.kr/people-professor.html" target="_blank">Prof. Sang-Woong Lee</a>.
 </div>
 
 ## News
