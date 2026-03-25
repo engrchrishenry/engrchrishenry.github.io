@@ -78,6 +78,7 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
 
 ## Selected Publications
 <div style="font-size:0.90em; line-height:1.5em;">
+Full list of publications available on <a href="https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en" target="_blank">Google Scholar</a>.<br><br>
 
 <div style="display: flex; align-items: center; margin-bottom: 1.5em; position: relative;">
   <!-- Image on the left -->
@@ -87,6 +88,9 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
 
   <!-- Text and buttons on the right -->
   <div style="flex: 1;">
+    <div style="display:block; background-color:#0066CC; color:white; font-size:0.68em; font-weight:bold; padding:0.15em 0.5em; border-radius:4px; margin-bottom:0.2em; width:fit-content;">
+      TBIOM'25
+    </div>
     <strong>Privacy-Preserving Face Recognition and Verification with Lensless Camera</strong><br>
     <em>IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), 2025</em><br>
     <div style="display: flex; gap: 0.5em;"> <!-- flex container fixes spacing -->
@@ -108,6 +112,9 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
 
   <!-- Text and buttons on the right -->
   <div style="flex: 1;">
+    <div style="display:block; background-color:#0066CC; color:white; font-size:0.68em; font-weight:bold; padding:0.15em 0.5em; border-radius:4px; margin-bottom:0.2em; width:fit-content;">
+      TCSVT'24
+    </div>
     <strong>Fast Video Deduplication and Localization with Temporal Consistence Re-Ranking</strong><br>
     <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024</em><br>
     <div style="display: flex; gap: 0.5em;">
@@ -126,6 +133,9 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
     <img src="/images/ICIP_2024_e2sift_thumb.jpg" alt="E2SIFT Thumbnail" class="pub-thumbnail">
   </div>
   <div style="flex: 1;">
+    <div style="display:block; background-color:#0066CC; color:white; font-size:0.68em; font-weight:bold; padding:0.15em 0.5em; border-radius:4px; margin-bottom:0.2em; width:fit-content;">
+      ICIP'24
+    </div>
     <strong>E2SIFT: Neuromorphic SIFT via Direct Feature Pyramid Recovery from Events</strong><br>
     <em>IEEE International Conference in Image Processing (ICIP), 2024</em><br>
     <div style="display: flex; gap: 0.5em;">
@@ -144,6 +154,9 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
     <img src="/images/ICASSP_2023_lensless_thumb.jpg" alt="Privacy Preserving Face Recognition Thumbnail" class="pub-thumbnail">
   </div>
   <div style="flex: 1;">
+    <div style="display:block; background-color:#0066CC; color:white; font-size:0.68em; font-weight:bold; padding:0.15em 0.5em; border-radius:4px; margin-bottom:0.2em; width:fit-content;">
+      ICASSP'23
+    </div>
     <strong>Privacy Preserving Face Recognition with Lensless Camera</strong><br>
     <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023</em><br>
     <div style="display: flex; gap: 0.5em; flex-wrap: wrap;">
@@ -168,6 +181,9 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
     <img src="/images/ICASSP_2023_dedup.png" alt="Lightweight Fisher Vector Thumbnail" class="pub-thumbnail">
   </div>
   <div style="flex: 1;">
+    <div style="display:block; background-color:#0066CC; color:white; font-size:0.68em; font-weight:bold; padding:0.15em 0.5em; border-radius:4px; margin-bottom:0.2em; width:fit-content;">
+      ICASSP'23
+    </div>
     <strong>Lightweight Fisher Vector Transfer Learning for Video Deduplication</strong><br>
     <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023</em><br>
     <div style="display: flex; gap: 0.5em; flex-wrap: wrap;">
@@ -185,8 +201,6 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
 </div>
 
 </div>
-
-#### Full list of publications available on [Google Scholar](https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en).
 
 ## Academic Services
 
