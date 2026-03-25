@@ -94,3 +94,20 @@
     }
   }
 }
+
+.page__footer-copyright {
+  display: flex;                   // align children in a row
+  justify-content: space-between;  // left text left, right text right
+  align-items: center;             // vertical alignment
+  flex-wrap: wrap;                 // wrap on small screens
+
+  .footer-left,
+  .footer-right {
+    font-size: $type-size-5;
+    color: var(--global-text-color-light);
+  }
+
+  .footer-right {
+    text-align: right;
+  }
+}
