@@ -1,15 +1,206 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD student working at the [Multimedia Computing & Communication Lab](http://l.web.umkc.edu/lizhu/) with [Prof. Zhu Li](http://l.web.umkc.edu/lizhu/) at the [University of Missouri-Kansas City](https://www.umkc.edu/), USA. I interned at [AtomBeam Technologies](https://www.atombeamtech.com/) as an Intern Research Scientist/Consultant during Summer/Fall 2024. During Summer 2023, I interned at the [Thales](https://www.thalesgroup.com/en) Group's Digital Identity and Security division in Pasadena, CA, USA under the supervision of [Dr. Yi Ding](). 
+<!-- I am a PhD student working at the [Multimedia Computing & Communication Lab](http://l.web.umkc.edu/lizhu/) with [Prof. Zhu Li](http://l.web.umkc.edu/lizhu/) at the [University of Missouri-Kansas City](https://www.umkc.edu/), USA. I interned at [AtomBeam Technologies](https://www.atombeamtech.com/) as an Intern Research Scientist/Consultant during Summer/Fall 2024. During Summer 2023, I interned at the [Thales](https://www.thalesgroup.com/en) Group's Digital Identity and Security division in Pasadena, CA, USA under the supervision of [Dr. Yi Ding](). 
 
 I earned my ME degree in 2019 from [Gachon University](https://www.gachon.ac.kr/sites/eng/index.do), South Korea and BE degree in 2015 from [Hamdard University](https://www.hamdard.edu.pk/), Pakistan. At [Gachon University](https://www.gachon.ac.kr/sites/eng/index.do), I worked as a research assistant at the [Pattern Recognition & Machine Learning Lab](http://pr.gachon.ac.kr/) with [Prof. Sang-Woong Lee](http://slee.gachon.ac.kr/). My research interests broadly include image processing, computer vision and deep learning.
 
-During my free time, I love to play video games and watch memes.
+During my free time, I love to play video games and watch memes. -->
 
+## About Me
+<div style="font-size:0.90em; line-height:1.5em;">
+
+I am a PhD student working at the <a href="http://l.web.umkc.edu/lizhu/" target="_blank">Multimedia Computing & Communication Lab</a> with <a href="http://l.web.umkc.edu/lizhu/" target="_blank">Prof. Zhu Li</a> at the <a href="https://www.umkc.edu/" target="_blank">University of Missouri-Kansas City</a>, USA. I interned at <a href="https://www.atombeamtech.com/" target="_blank">AtomBeam Technologies</a> as an Intern Research Scientist/Consultant during Summer/Fall 2024. During Summer 2023, I interned at the <a href="https://www.thalesgroup.com/en" target="_blank">Thales</a> Group's Digital Identity and Security division in Pasadena, CA, USA under the supervision of Dr. Yi Ding.<br><br>
+
+I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/index.do" target="_blank">Gachon University</a>, South Korea, and BE degree in 2015 from <a href="https://www.hamdard.edu.pk/" target="_blank">Hamdard University</a>, Pakistan. At Gachon University, I worked as a research assistant at the <a href="http://pr.gachon.ac.kr/" target="_blank">Pattern Recognition & Machine Learning Lab</a> with Prof. Sang-Woong Lee.<br><br>
+
+My research interests broadly include image processing, computer vision, and deep learning. During my free time, I love to play video games and watch memes.
+</div>
+
+## News
+
+<div style="font-size:0.90em; line-height:1.5em; margin-bottom:1em;">
+
+<p style="margin:0 0 0.4em 0;">
+  <strong>03.2026</strong>: Official code release: ICIP 2024 – E2SIFT (<a href="https://github.com/engrchrishenry/E2SIFT.git" target="_blank">code</a>)
+</p>
+
+<p style="margin:0 0 0.4em 0;">
+  <strong>02.2026</strong>: Official code releases:
+</p>
+<ul style="margin:0.2em 0 0.4em 1.2em; padding:0; line-height:1.2em;">
+  <li>TCSVT 2024 – Video Deduplication (<a href="https://github.com/engrchrishenry/loc_aware_video_dedup" target="_blank">code</a>)</li>
+  <li>TBIOM 2025 – Lensless Face Recognition (<a href="https://github.com/engrchrishenry/lensless_face_recognition" target="_blank">code</a>)</li>
+</ul>
+
+<p style="margin:0 0 0.4em 0;">
+  <strong>01.2026</strong>: 1 paper accepted at IEEE ISCAS 2026.
+</p>
+
+<p style="margin:0 0 0.4em 0;">
+  <strong>11.2024</strong>: 1 paper accepted at IEEE T-BIOM.
+</p>
+
+<p style="margin:0 0 0.4em 0;">
+  <strong>09.2024</strong>: Joining AtomBeam Technologies as an Intern Research Scientist/Consultant for Fall 2024.
+</p>
+
+<p style="margin:0 0 0.4em 0;">
+  <strong>06.2024</strong>: 1 paper accepted at IEEE TCSVT. 1 paper accepted at IEEE ICIP 2024. Joining AtomBeam Technologies as an Intern for Summer 2024.
+</p>
+
+<p style="margin:0 0 0.4em 0;">
+  <strong>06.2023</strong>: Joining Thales Group as a PhD Intern for Summer 2023 in Pasadena, CA, USA.
+</p>
+
+<p style="margin:0 0 0.4em 0;">
+  <strong>02.2023</strong>: 1 paper accepted at ACM MHV 2023. 2 papers accepted at IEEE ICASSP 2023.
+</p>
+
+<p style="margin:0;">
+  <strong>05.2022</strong>: 1 paper accepted at IEEE MIPR 2022.
+</p>
+
+</div>
+
+## Selected Publications
+<div style="font-size:0.90em; line-height:1.5em;">
+
+<div style="display: flex; align-items: center; margin-bottom: 1.5em; position: relative;">
+  <!-- Image on the left -->
+  <div class="pub-image">
+    <img src="/images/TBIOM_2024_lensless_thumb.jpg" alt="Paper Thumbnail" class="pub-thumbnail">
+  </div>
+
+  <!-- Text and buttons on the right -->
+  <div style="flex: 1;">
+    <strong>Privacy-Preserving Face Recognition and Verification with Lensless Camera</strong><br>
+    <em>IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), 2025</em><br>
+    <div style="display: flex; gap: 0.5em;"> <!-- flex container fixes spacing -->
+      <a href="https://ieeexplore.ieee.org/document/10793399" target="_blank">
+        <img src="https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white" alt="Paper">
+      </a>
+      <a href="https://github.com/engrchrishenry/lensless_face_recognition" target="_blank">
+        <img src="https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 1.5em; position: relative;">
+  <!-- Image on the left -->
+  <div class="pub-image">
+    <img src="/images/TCSVT_2024_dedup_thumb.png" alt="Fast Video Deduplication Thumbnail" class="pub-thumbnail">
+  </div>
+
+  <!-- Text and buttons on the right -->
+  <div style="flex: 1;">
+    <strong>Fast Video Deduplication and Localization with Temporal Consistence Re-Ranking</strong><br>
+    <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024</em><br>
+    <div style="display: flex; gap: 0.5em;">
+      <a href="https://doi.org/10.1109/TCSVT.2024.3420422" target="_blank">
+        <img src="https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white" alt="Paper">
+      </a>
+      <a href="https://github.com/engrchrishenry/loc_aware_video_dedup" target="_blank">
+        <img src="https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 1.5em; position: relative;">
+  <div class="pub-image">
+    <img src="/images/ICIP_2024_e2sift_thumb.jpg" alt="E2SIFT Thumbnail" class="pub-thumbnail">
+  </div>
+  <div style="flex: 1;">
+    <strong>E2SIFT: Neuromorphic SIFT via Direct Feature Pyramid Recovery from Events</strong><br>
+    <em>IEEE International Conference in Image Processing (ICIP), 2024</em><br>
+    <div style="display: flex; gap: 0.5em;">
+      <a href="https://doi.org/10.1109/ICIP51287.2024.10647465" target="_blank">
+        <img src="https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white" alt="Paper">
+      </a>
+      <a href="https://github.com/engrchrishenry/E2SIFT.git" target="_blank">
+        <img src="https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 1.5em; position: relative;">
+  <div class="pub-image">
+    <img src="/images/ICASSP_2023_lensless_thumb.jpg" alt="Privacy Preserving Face Recognition Thumbnail" class="pub-thumbnail">
+  </div>
+  <div style="flex: 1;">
+    <strong>Privacy Preserving Face Recognition with Lensless Camera</strong><br>
+    <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023</em><br>
+    <div style="display: flex; gap: 0.5em; flex-wrap: wrap;">
+      <a href="https://doi.org/10.1109/ICASSP49357.2023.10096627" target="_blank">
+        <img src="https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white" alt="Paper">
+      </a>
+      <a href="https://drive.google.com/file/d/18eXd-yd_0S7QW8qFIltttBgfgSq0Ew75/view?usp=sharing" target="_blank">
+        <img src="https://img.shields.io/badge/Slides-%23F28C28?style=for-the-badge&logo=google-drive&logoColor=white" alt="Slides">
+      </a>
+      <a href="https://drive.google.com/file/d/1nPSXk6_kAhpPfbgxMwJoVeCqI2CDNe0F/view?usp=drive_link" target="_blank">
+        <img src="https://img.shields.io/badge/Poster-%236A5ACD?style=for-the-badge&logo=google-drive&logoColor=white" alt="Poster">
+      </a>
+      <a href="https://drive.google.com/file/d/1g2mdJYPDVB9-1JVR7fC1-NFACI4BSGp_/view?usp=sharing" target="_blank">
+        <img src="https://img.shields.io/badge/Video-%23E33E3E?style=for-the-badge&logo=google-drive&logoColor=white" alt="Video">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 1.5em; position: relative;">
+  <div class="pub-image">
+    <img src="/images/ICASSP_2023_dedup.png" alt="Lightweight Fisher Vector Thumbnail" class="pub-thumbnail">
+  </div>
+  <div style="flex: 1;">
+    <strong>Lightweight Fisher Vector Transfer Learning for Video Deduplication</strong><br>
+    <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023</em><br>
+    <div style="display: flex; gap: 0.5em; flex-wrap: wrap;">
+      <a href="https://doi.org/10.1109/ICASSP49357.2023.10095417" target="_blank">
+        <img src="https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white" alt="Paper">
+      </a>
+      <a href="https://drive.google.com/file/d/1iTzy-p_OwZbp18yoGlySCCGWuFiPaS0f/view?usp=sharing" target="_blank">
+        <img src="https://img.shields.io/badge/Slides-%23F28C28?style=for-the-badge&logo=google-drive&logoColor=white" alt="Slides">
+      </a>
+      <a href="https://drive.google.com/file/d/1X03Syo23JIpaii6HO8TX_EX9L9eTfb8s/view?usp=sharing" target="_blank">
+        <img src="https://img.shields.io/badge/Video-%23E33E3E?style=for-the-badge&logo=google-drive&logoColor=white" alt="Video">
+      </a>
+    </div>
+  </div>
+</div>
+
+</div>
+
+#### Full list of publications available on [Google Scholar](https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en).
+
+<style>
+.pub-thumbnail {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  z-index: 1;
+}
+
+.pub-thumbnail:hover {
+  transform: scale(2.0);                   /* pop out more */
+  box-shadow: 0 12px 30px rgba(0,0,0,0.5); /* stronger shadow */
+  z-index: 10;                             /* appear above text */
+}
+
+.pub-image {
+  flex: 0 0 70%;
+  max-width: 200px;
+  min-width: 100px;
+  margin-right: 1em;
+}
+</style>
