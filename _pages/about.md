@@ -50,16 +50,25 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
 </p>
 
 <p style="margin:0 0 0.4em 0;">
-  <strong>06.2024</strong>: 1 paper accepted at IEEE TCSVT. 1 paper accepted at IEEE ICIP 2024. Joining AtomBeam Technologies as an Intern for Summer 2024.
+  <strong>06.2024</strong>:
 </p>
+<ul style="margin:0.2em 0 0.4em 1.2em; padding:0; line-height:1.2em;">
+  <li>1 paper accepted at IEEE TCSVT.</li>
+  <li>1 paper accepted at IEEE ICIP 2024.</li>
+  <li>Joining AtomBeam Technologies as an Intern for Summer 2024.</li>
+</ul>
 
 <p style="margin:0 0 0.4em 0;">
   <strong>06.2023</strong>: Joining Thales Group as a PhD Intern for Summer 2023 in Pasadena, CA, USA.
 </p>
 
 <p style="margin:0 0 0.4em 0;">
-  <strong>02.2023</strong>: 1 paper accepted at ACM MHV 2023. 2 papers accepted at IEEE ICASSP 2023.
+  <strong>02.2023</strong>:
 </p>
+<ul style="margin:0.2em 0 0.4em 1.2em; padding:0; line-height:1.2em;">
+  <li>1 paper accepted at ACM MHV 2023. </li>
+  <li>2 papers accepted at IEEE ICASSP 2023.</li>
+</ul>
 
 <p style="margin:0;">
   <strong>05.2022</strong>: 1 paper accepted at IEEE MIPR 2022.
