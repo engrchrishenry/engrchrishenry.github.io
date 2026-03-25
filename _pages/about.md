@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a PhD student working at the [Multimedia Computing & Communication Lab](http://l.web.umkc.edu/lizhu/) with [Prof. Zhu Li](http://l.web.umkc.edu/lizhu/) at the [University of Missouri-Kansas City](https://www.umkc.edu/), USA. I interned at [AtomBeam Technologies](https://www.atombeamtech.com/) as an Intern Research Scientist/Consultant during Summer/Fall 2024. During Summer 2023, I interned at the [Thales](https://www.thalesgroup.com/en) Group's Digital Identity and Security division in Pasadena, CA, USA under the supervision of [Dr. Yi Ding](). 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I earned my ME degree in 2019 from [Gachon University](https://www.gachon.ac.kr/sites/eng/index.do), South Korea and BE degree in 2015 from [Hamdard University](https://www.hamdard.edu.pk/), Pakistan. At [Gachon University](https://www.gachon.ac.kr/sites/eng/index.do), I worked as a research assistant at the [Pattern Recognition & Machine Learning Lab](http://pr.gachon.ac.kr/) with [Prof. Sang-Woong Lee](http://slee.gachon.ac.kr/). My research interests broadly include image processing, computer vision and deep learning.
+
+During my free time, I love to play video games and watch memes.
 
 A data-driven personal website
 ======

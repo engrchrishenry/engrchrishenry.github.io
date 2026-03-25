@@ -304,7 +304,10 @@
   }
 
   li {
-    white-space: nowrap;
+    // white-space: nowrap;
+    white-space: normal;      // allow wrapping
+    word-wrap: break-word;    // legacy support
+    overflow-wrap: anywhere;  // modern property for breaking long text
   }
 
   a {

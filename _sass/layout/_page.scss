@@ -18,18 +18,36 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    // @include span(10 of 12 last);
+    // @include prefix(0.5 of 12);
+    // @include suffix(2 of 12);
+    @include span(10 of 12 last);      // main content width
+    @include prefix(0.5 of 12);          // left spacing from sidebar
+    @include suffix(0.5 of 12);          // right spacing from edge
   }
 
+  // .page__inner-wrap {
+  //   @include full();
+
+  //   .page__content,
+  //   .page__meta,
+  //   .page__share {
+  //     @include full();
+  //   }
+  // }
   .page__inner-wrap {
     @include full();
+    
+    // Add horizontal spacing from the sidebar
+    padding-left: 1em;  // adjust as needed
+    padding-right: 1em; // optional, keeps right spacing too
 
     .page__content,
     .page__meta,
-    .page__share {
-      @include full();
+    .page__share,
+    .page__title,
+    .page__lead {
+      text-align: justify; // keep text justified
     }
   }
 }
