@@ -6,14 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <!-- I am a PhD student working at the [Multimedia Computing & Communication Lab](http://l.web.umkc.edu/lizhu/) with [Prof. Zhu Li](http://l.web.umkc.edu/lizhu/) at the [University of Missouri-Kansas City](https://www.umkc.edu/), USA. I interned at [AtomBeam Technologies](https://www.atombeamtech.com/) as an Intern Research Scientist/Consultant during Summer/Fall 2024. During Summer 2023, I interned at the [Thales](https://www.thalesgroup.com/en) Group's Digital Identity and Security division in Pasadena, CA, USA under the supervision of [Dr. Yi Ding](). 
 
 I earned my ME degree in 2019 from [Gachon University](https://www.gachon.ac.kr/sites/eng/index.do), South Korea and BE degree in 2015 from [Hamdard University](https://www.hamdard.edu.pk/), Pakistan. At [Gachon University](https://www.gachon.ac.kr/sites/eng/index.do), I worked as a research assistant at the [Pattern Recognition & Machine Learning Lab](http://pr.gachon.ac.kr/) with [Prof. Sang-Woong Lee](http://slee.gachon.ac.kr/). My research interests broadly include image processing, computer vision and deep learning.
 
 During my free time, I love to play video games and watch memes. -->
 
-## About Me
+<!-- ## About Me -->
+<h2>About Me</h2>
+
 <div style="font-size:0.90em; line-height:1.5em;">
 
 I am a PhD student working at the <a href="http://l.web.umkc.edu/lizhu/" target="_blank">Multimedia Computing & Communication Lab</a> with <a href="http://l.web.umkc.edu/lizhu/" target="_blank">Prof. Zhu Li</a> at the <a href="https://www.umkc.edu/" target="_blank">University of Missouri-Kansas City</a>, USA. I was an Intern Research Scientist/Consultant at <a href="https://www.atombeamtech.com/" target="_blank">AtomBeam Technologies</a> and a PhD Intern at <a href="https://www.thalesgroup.com/en" target="_blank">Thales</a> in Pasadena, CA, USA.<br><br>
@@ -206,41 +207,23 @@ Full list of publications available on <a href="https://scholar.google.com/citat
 
 <div style="font-size:0.90em; line-height:1.5em;">
 
-<p style="margin:0 0 0.3em 0;">
-<strong>Invited Reviewer</strong>, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025, 2026
+<p style="margin:0 0 0.5em 0;">
+<strong>Invited Reviewer</strong>:
 </p>
+<ul style="margin:0 0 0.5em 1.2em; padding:0; line-height:1.0;">
+  <li>IEEE Transactions on Circuits and Systems for Video Technology (<strong>TCSVT</strong>) - 2025, 2026</li>
+  <li>IEEE Transactions on Image Processing (<strong>TIP</strong>) - 2022, 2024</li>
+  <li>IEEE International Conference on Image Processing (<strong>ICIP</strong>) - 2022, 2023</li>
+  <li>IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP</strong>) - 2022, 2023</li>
+  <li>IEEE Access (2019)</li>
+</ul>
 
-<p style="margin:0 0 0.3em 0;">
-<strong>Invited Reviewer</strong>, IEEE Transactions on Image Processing (T-IP), 2024
+<p style="margin:0 0 0.5em 0;">
+<strong>Program Committee Member</strong>:
 </p>
-
-<p style="margin:0 0 0.3em 0;">
-<strong>Program Committee Member</strong>, ACM International Conference on Multimedia Retrieval (ICMR), 2024
-</p>
-
-<p style="margin:0 0 0.3em 0;">
-<strong>Invited Reviewer</strong>, IEEE International Conference on Image Processing (ICIP), 2023
-</p>
-
-<p style="margin:0 0 0.3em 0;">
-<strong>Invited Reviewer</strong>, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023
-</p>
-
-<p style="margin:0 0 0.3em 0;">
-<strong>Invited Reviewer</strong>, IEEE Transactions on Image Processing (T-IP), 2022
-</p>
-
-<p style="margin:0 0 0.3em 0;">
-<strong>Invited Reviewer</strong>, IEEE International Conference on Image Processing (ICIP), 2022
-</p>
-
-<p style="margin:0 0 0.3em 0;">
-<strong>Invited Reviewer</strong>, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022
-</p>
-
-<p style="margin:0;">
-<strong>Invited Reviewer</strong>, IEEE Access, 2019
-</p>
+<ul style="margin:0 0 0.5em 1.2em; padding:0; line-height:1.0;">
+  <li>ACM International Conference on Multimedia Retrieval (<strong>ICMR</strong>) - 2024</li>
+</ul>
 
 </div>
 
@@ -261,7 +244,7 @@ Full list of publications available on <a href="https://scholar.google.com/citat
 }
 
 .pub-image {
-  flex: 0 0 70%;
+  flex: 0 0 59%;
   max-width: 200px;
   min-width: 100px;
   margin-right: 1em;
