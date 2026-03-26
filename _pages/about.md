@@ -423,7 +423,7 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
 }
 
 .pub-image {
-  flex: 0 0 59%;
+  flex: 0 0 40%;
   max-width: 200px;
   min-width: 100px;
   margin-right: 1em;
