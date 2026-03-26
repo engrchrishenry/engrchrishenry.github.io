@@ -262,7 +262,10 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
       TBIOM'25
     </div>
     <strong>Privacy-Preserving Face Recognition and Verification with Lensless Camera</strong><br>
-    <em>IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), 2025</em><br>
+    <span style="color:inherit; font-size:0.90em;">
+      <strong>Chris Henry</strong>, M. Salman Asif, Zhu Li
+    </span><br>
+    <em style="font-size:0.90em;">IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), 2025</em><br>
     <div style="display: flex; gap: 0.5em;">
       <a href="https://ieeexplore.ieee.org/document/10793399" target="_blank">
         <img src="https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white" alt="Paper">
@@ -283,7 +286,10 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
       TCSVT'24
     </div>
     <strong>Fast Video Deduplication and Localization with Temporal Consistence Re-Ranking</strong><br>
-    <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024</em><br>
+    <span style="color:inherit; font-size:0.90em;">
+      <strong>Chris Henry</strong>, Li Song, Zhu Li
+    </span><br>
+    <em style="font-size:0.90em;">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024</em><br>
     <div style="display: flex; gap: 0.5em;">
       <a href="https://doi.org/10.1109/TCSVT.2024.3420422" target="_blank">
         <img src="https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white" alt="Paper">
@@ -304,7 +310,10 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
       ICIP'24
     </div>
     <strong>E2SIFT: Neuromorphic SIFT via Direct Feature Pyramid Recovery from Events</strong><br>
-    <em>IEEE International Conference in Image Processing (ICIP), 2024</em><br>
+    <span style="color:inherit; font-size:0.90em;">
+      <strong>Chris Henry</strong>, Paras Maharjan, Zhu Li, George York
+    </span><br>
+    <em style="font-size:0.90em;">IEEE International Conference in Image Processing (ICIP), 2024</em><br>
     <div style="display: flex; gap: 0.5em;">
       <a href="https://doi.org/10.1109/ICIP51287.2024.10647465" target="_blank">
         <img src="https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white" alt="Paper">
@@ -325,7 +334,10 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
       ICASSP'23
     </div>
     <strong>Privacy Preserving Face Recognition with Lensless Camera</strong><br>
-    <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023</em><br>
+    <span style="color:inherit; font-size:0.90em;">
+      <strong>Chris Henry</strong>, M. Salman Asif, Zhu Li
+    </span><br>
+    <em style="font-size:0.90em;">IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023</em><br>
     <div style="display: flex; gap: 0.5em;">
       <a href="https://doi.org/10.1109/ICASSP49357.2023.10096627" target="_blank">
         <img src="https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white" alt="Paper">
@@ -352,7 +364,10 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
       ICASSP'23
     </div>
     <strong>Lightweight Fisher Vector Transfer Learning for Video Deduplication</strong><br>
-    <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023</em><br>
+    <span style="color:inherit; font-size:0.90em;">
+      <strong>Chris Henry</strong>, Rijun Liao, Ruiyuan Lin, Zhebin Zhang, Hongyu Sun, Zhu Li
+    </span><br>
+    <em style="font-size:0.90em;">IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023</em><br>
     <div style="display: flex; gap: 0.5em;">
       <a href="https://doi.org/10.1109/ICASSP49357.2023.10095417" target="_blank">
         <img src="https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white" alt="Paper">
@@ -425,7 +440,7 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
   transition: transform 0.2s, box-shadow 0.2s;
 
   font-size: 0.90em;            /* consistent with your previous font size */
-  line-height: 1.5em;           /* consistent with your previous line height */
+  line-height: 1.8em;           /* consistent with your previous line height */
 }
 
 .publication:hover {
