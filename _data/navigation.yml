@@ -22,6 +22,10 @@ main:
 
   - title: "Gallery"
     url: /gallery/
+  
+  - title: "Download CV"
+    url: "https://drive.google.com/file/d/14USaVeFkR3NWc-18y2QnbR_cgiqJnTvg/view?usp=drive_link"
+    external: true
 
   # - title: "Teaching"
   #   url: /teaching/
