@@ -129,13 +129,13 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
   </details>
 </div>
 
-## Selected Publications
+## Selected Publications <span style="font-size:0.8em;">(<a href="/publications/" style="font-weight:normal;">View All</a>)</span>
 
 <template>
 <div style="display: flex; align-items: center; margin-bottom: 1.5em; position: relative;">
   <!-- Image on the left -->
   <div class="pub-image">
-    <img src="/images/TBIOM_2024_lensless_thumb.jpg" alt="Paper Thumbnail" class="pub-thumbnail">
+    <img src="/images/paper_thumbs/TBIOM_2024_lensless_thumb.jpg" alt="Paper Thumbnail" class="pub-thumbnail">
   </div>
 
   <!-- Text and buttons on the right -->
@@ -159,7 +159,7 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
 <div style="display: flex; align-items: center; margin-bottom: 1.5em; position: relative;">
   <!-- Image on the left -->
   <div class="pub-image">
-    <img src="/images/TCSVT_2024_dedup_thumb.png" alt="Fast Video Deduplication Thumbnail" class="pub-thumbnail">
+    <img src="/images/paper_thumbs/TCSVT_2024_dedup_thumb.png" alt="Fast Video Deduplication Thumbnail" class="pub-thumbnail">
   </div>
 
   <!-- Text and buttons on the right -->
@@ -182,7 +182,7 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
 
 <div style="display: flex; align-items: center; margin-bottom: 1.5em; position: relative;">
   <div class="pub-image">
-    <img src="/images/ICIP_2024_e2sift_thumb.jpg" alt="E2SIFT Thumbnail" class="pub-thumbnail">
+    <img src="/images/paper_thumbs/ICIP_2024_e2sift_thumb.jpg" alt="E2SIFT Thumbnail" class="pub-thumbnail">
   </div>
   <div style="flex: 1;">
     <div style="display:block; background-color:#0066CC; color:white; font-size:0.68em; font-weight:bold; padding:0.15em 0.5em; border-radius:4px; margin-bottom:0.2em; width:fit-content;">
@@ -203,7 +203,7 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
 
 <div style="display: flex; align-items: center; margin-bottom: 1.5em; position: relative;">
   <div class="pub-image">
-    <img src="/images/ICASSP_2023_lensless_thumb.jpg" alt="Privacy Preserving Face Recognition Thumbnail" class="pub-thumbnail">
+    <img src="/images/paper_thumbs/ICASSP_2023_lensless_thumb.jpg" alt="Privacy Preserving Face Recognition Thumbnail" class="pub-thumbnail">
   </div>
   <div style="flex: 1;">
     <div style="display:block; background-color:#0066CC; color:white; font-size:0.68em; font-weight:bold; padding:0.15em 0.5em; border-radius:4px; margin-bottom:0.2em; width:fit-content;">
@@ -230,7 +230,7 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
 
 <div style="display: flex; align-items: center; margin-bottom: 1.5em; position: relative;">
   <div class="pub-image">
-    <img src="/images/ICASSP_2023_dedup.png" alt="Lightweight Fisher Vector Thumbnail" class="pub-thumbnail">
+    <img src="/images/paper_thumbs/ICASSP_2023_dedup.png" alt="Lightweight Fisher Vector Thumbnail" class="pub-thumbnail">
   </div>
   <div style="flex: 1;">
     <div style="display:block; background-color:#0066CC; color:white; font-size:0.68em; font-weight:bold; padding:0.15em 0.5em; border-radius:4px; margin-bottom:0.2em; width:fit-content;">
@@ -253,13 +253,9 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
 </div>
 </template>
 
-<div style="font-size:0.90em; line-height:1.5em;">
-Full list of publications available on <a href="https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en" target="_blank">Google Scholar</a>.<br><br>
-</div>
-
 <div class="publication">
   <div class="pub-image">
-    <img src="/images/TBIOM_2024_lensless_thumb.jpg" alt="Paper Thumbnail" class="pub-thumbnail">
+    <img src="/images/paper_thumbs/TBIOM_2024_lensless_thumb.jpg" alt="Paper Thumbnail" class="pub-thumbnail">
   </div>
   <div style="flex: 1;">
     <div style="display:block; background-color:#0066CC; color:white; font-size:0.68em; font-weight:bold; padding:0.15em 0.5em; border-radius:4px; margin-bottom:0.2em; width:fit-content;">
@@ -280,7 +276,7 @@ Full list of publications available on <a href="https://scholar.google.com/citat
 
 <div class="publication">
   <div class="pub-image">
-    <img src="/images/TCSVT_2024_dedup_thumb.png" alt="Paper Thumbnail" class="pub-thumbnail">
+    <img src="/images/paper_thumbs/TCSVT_2024_dedup_thumb.png" alt="Paper Thumbnail" class="pub-thumbnail">
   </div>
   <div style="flex: 1;">
     <div style="display:block; background-color:#0066CC; color:white; font-size:0.68em; font-weight:bold; padding:0.15em 0.5em; border-radius:4px; margin-bottom:0.2em; width:fit-content;">
@@ -301,7 +297,7 @@ Full list of publications available on <a href="https://scholar.google.com/citat
 
 <div class="publication">
   <div class="pub-image">
-    <img src="/images/ICIP_2024_e2sift_thumb.jpg" alt="Paper Thumbnail" class="pub-thumbnail">
+    <img src="/images/paper_thumbs/ICIP_2024_e2sift_thumb.jpg" alt="Paper Thumbnail" class="pub-thumbnail">
   </div>
   <div style="flex: 1;">
     <div style="display:block; background-color:#0066CC; color:white; font-size:0.68em; font-weight:bold; padding:0.15em 0.5em; border-radius:4px; margin-bottom:0.2em; width:fit-content;">
@@ -322,7 +318,7 @@ Full list of publications available on <a href="https://scholar.google.com/citat
 
 <div class="publication">
   <div class="pub-image">
-    <img src="/images/ICASSP_2023_lensless_thumb.jpg" alt="Paper Thumbnail" class="pub-thumbnail">
+    <img src="/images/paper_thumbs/ICASSP_2023_lensless_thumb.jpg" alt="Paper Thumbnail" class="pub-thumbnail">
   </div>
   <div style="flex: 1;">
     <div style="display:block; background-color:#0066CC; color:white; font-size:0.68em; font-weight:bold; padding:0.15em 0.5em; border-radius:4px; margin-bottom:0.2em; width:fit-content;">
@@ -349,7 +345,7 @@ Full list of publications available on <a href="https://scholar.google.com/citat
 
 <div class="publication">
   <div class="pub-image">
-    <img src="/images/ICASSP_2023_dedup.png" alt="Paper Thumbnail" class="pub-thumbnail">
+    <img src="/images/paper_thumbs/ICASSP_2023_dedup.png" alt="Paper Thumbnail" class="pub-thumbnail">
   </div>
   <div style="flex: 1;">
     <div style="display:block; background-color:#0066CC; color:white; font-size:0.68em; font-weight:bold; padding:0.15em 0.5em; border-radius:4px; margin-bottom:0.2em; width:fit-content;">
