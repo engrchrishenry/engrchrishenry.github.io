@@ -13,7 +13,7 @@ author_profile: true
   <!-- Card 1 -->
   <div style="border:1px solid #ddd; border-radius:8px; padding:10px; text-align:center;">
     <a href="https://github.com/engrchrishenry/lensless_face_recognition" target="_blank">
-      <img src="/images/TBIOM_2024_lensless_thumb.jpg" alt="Lensless Face Recognition" style="width:59%; border-radius:5px;">
+      <img src="/images/paper_thumbs/TBIOM_2024_lensless_thumb.jpg" alt="Lensless Face Recognition" style="width:59%; border-radius:5px;">
       <h3 style="margin:10px 0 5px 0;">Privacy-Preserving Face Recognition and Verification using a Lensless Camera</h3>
     </a>
     <p class="desc" style="text-align: justify; max-height: 80px; overflow: hidden; transition: max-height 0.3s;">
@@ -27,7 +27,7 @@ author_profile: true
   <!-- Card 2 -->
   <div style="border:1px solid #ddd; border-radius:8px; padding:10px; text-align:center;">
     <a href="https://github.com/engrchrishenry/loc_aware_video_dedup" target="_blank">
-      <img src="/images/TCSVT_2024_dedup_thumb.png" alt="Video Deduplication" style="width:70%; border-radius:5px;">
+      <img src="/images/paper_thumbs/TCSVT_2024_dedup_thumb.png" alt="Video Deduplication" style="width:70%; border-radius:5px;">
       <h3 style="margin:10px 0 5px 0;">Fast Video Deduplication and Localization With Temporal Consistence Re-Ranking</h3>
     </a>
     <p class="desc" style="text-align: justify; max-height: 80px; overflow: hidden; transition: max-height 0.3s;">
@@ -42,7 +42,7 @@ author_profile: true
   <!-- Card 3 -->
   <div style="border:1px solid #ddd; border-radius:8px; padding:10px; text-align:center;">
     <a href="https://github.com/engrchrishenry/E2SIFT" target="_blank">
-      <img src="/images/ICIP_2024_e2sift_thumb.jpg" alt="E2SIFT" style="width:70%; border-radius:5px;">
+      <img src="/images/paper_thumbs/ICIP_2024_e2sift_thumb.jpg" alt="E2SIFT" style="width:70%; border-radius:5px;">
       <h3 style="margin:10px 0 5px 0;">E2SIFT: Neuromorphic SIFT via Direct Feature Pyramid Recovery from Events</h3>
     </a>
     <p class="desc" style="text-align: justify; max-height: 100px; overflow: hidden; transition: max-height 0.3s;">
