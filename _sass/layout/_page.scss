@@ -18,12 +18,13 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
-    // @include span(10 of 12 last);      // main content width
-    // @include prefix(1 of 12);          // left spacing from sidebar
-    // @include suffix(1 of 12);          // right spacing from edge
+    // @include span(10 of 12 last);
+    // @include prefix(0.5 of 12);
+    // @include suffix(2 of 12);
+
+    @include span(10 of 12 last);      // main content width
+    @include prefix(0 of 12);          // left spacing from sidebar
+    @include suffix(0 of 12);          // right spacing from edge
   }
 
   // .page__inner-wrap {
