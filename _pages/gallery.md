@@ -47,6 +47,13 @@ author_profile: true
 <div class="gallery-grid">
 
   <div class="gallery-item">
+    <a href="/images/gallery/Thales, Pasadena, CA, USA, 2023.jpg" target="_blank">
+      <img src="/images/gallery/Thales, Pasadena, CA, USA, 2023.jpg" alt="Niagara Falls, Buffalo, NY, USA, 2023">
+    </a>
+    <div class="gallery-caption">Thales, Pasadena, CA, USA, 2023</div>
+  </div>
+
+  <div class="gallery-item">
     <a href="/images/gallery/Niagara Falls, Buffalo, NY, USA, 2023.jpg" target="_blank">
       <img src="/images/gallery/Niagara Falls, Buffalo, NY, USA, 2023.jpg" alt="Niagara Falls, Buffalo, NY, USA, 2023">
     </a>

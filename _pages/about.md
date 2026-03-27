@@ -94,39 +94,11 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
     <strong>11.2024</strong>: 1 paper accepted at IEEE T-BIOM.
   </p>
 
-  <!-- Older news hidden by default -->
-  <details style="margin-top:0.5em;">
-  <summary style="cursor:pointer; font-weight:bold;">Read older news</summary>
-
-  <p style="margin:0 0 0.4em 0;">
-    <strong>09.2024</strong>: Joining AtomBeam Technologies as an Intern Research Scientist/Consultant for Fall 2024.
-  </p>
-
-  <p style="margin:0 0 0.4em 0;">
-    <strong>06.2024</strong>:
-  </p>
-  <ul style="margin:0.2em 0 0.4em 1.2em; padding:0; line-height:1.2em;">
-    <li>1 paper accepted at IEEE TCSVT.</li>
-    <li>1 paper accepted at IEEE ICIP 2024.</li>
-    <li>Joining AtomBeam Technologies as an Intern for Summer 2024.</li>
-  </ul>
-
-  <p style="margin:0 0 0.4em 0;">
-    <strong>06.2023</strong>: Joining Thales Group as a PhD Intern for Summer 2023 in Pasadena, CA, USA.
-  </p>
-
-  <p style="margin:0 0 0.4em 0;">
-    <strong>02.2023</strong>:
-  </p>
-  <ul style="margin:0.2em 0 0.4em 1.2em; padding:0; line-height:1.2em;">
-    <li>1 paper accepted at ACM MHV 2023. </li>
-    <li>2 papers accepted at IEEE ICASSP 2023.</li>
-  </ul>
-
-  <p style="margin:0;">
-    <strong>05.2022</strong>: 1 paper accepted at IEEE MIPR 2022.
-  </p>
-  </details>
+  <div style="margin-top:0.5em;">
+  <a href="/news/" style="font-weight:bold; text-decoration:none;">
+    View All →
+  </a>
+</div>
 </div>
 
 ## Selected Publications <span style="font-size:0.8em;">(<a href="/publications/" style="font-weight:normal;">View All</a>)</span>
