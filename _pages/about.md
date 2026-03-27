@@ -434,9 +434,9 @@ I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/i
   align-items: center;
   margin-bottom: 0.8em;
   padding: 10px 15px;
-  border: 1px solid #ddd;       /* light gray border */
+  /* border: 1px solid #ddd;       /* light gray border */ */
   border-radius: 8px;           /* rounded corners */
-  background-color: #f9f9f9;    /* subtle background for clarity */
+  /* background-color: #f9f9f9;    /* subtle background for clarity */ */
   transition: transform 0.2s, box-shadow 0.2s;
 
   font-size: 0.90em;            /* consistent with your previous font size */
