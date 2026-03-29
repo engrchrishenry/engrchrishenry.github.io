@@ -27,8 +27,15 @@
       {% if author.location %}
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
-      {% if author.employer %}
+      <!-- {% if author.employer %}
         <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
+      {% endif %} -->
+      {% if author.employer %}
+      <li>
+        <a href="{{ author.employer_url }}" target="_blank" rel="noopener noreferrer">
+          <i class="fas fa-fw fa-building-columns icon-pad-right"></i>{{ author.employer }}
+        </a>
+      </li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
@@ -67,7 +74,7 @@
           <i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar
         </a>
       </li>
-    {% endif %}
+      {% endif %}
       {% if author.inspire-hep %}
         <li><a href="{{ author.inspire-hep }}"><i class="ai ai-inspire ai-fw icon-pad-right"></i>INSPIRE-HEP</a></li>
       {% endif %}      
