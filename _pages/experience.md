@@ -20,8 +20,10 @@ author_profile: true
     <div class="exp-role">Intern Research Scientist/Consultant, Sep 2024 – Jan 2025</div>
     <div class="exp-location"><strong>Moraga, CA, USA (Remote)</strong></div>
   </div>
-
+  
+  <div class="exp-row">
   <div class="exp-role">Consultant, Jun 2024 – Aug 2024</div>
+  </div>
 
   <ul class="description">
     <li><strong>Phase Unwrapping (InSAR):</strong> Worked on developing deep learning-based phase unwrapping for Interferometric Synthetic Aperture
@@ -119,7 +121,7 @@ classification system. It directly learns from lensless camera’s sensor measur
 }
 
 .description {
-  font-size: 0.95em;
+  font-size: 0.88em;
   line-height: 1.2em;
 }
 
@@ -142,11 +144,12 @@ classification system. It directly learns from lensless camera’s sensor measur
   display: flex;
   justify-content: space-between;
   align-items: center;
+  font-size: 0.95em;
 }
 
 .exp-role {
   font-weight: 500;
-  font-size: 0.95em;
+  font-size: 0.90em;
 }
 </style>
 
