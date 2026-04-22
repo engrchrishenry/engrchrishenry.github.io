@@ -17,6 +17,52 @@ Previously, I worked as an Intern Research Scientist/Consultant at <a href="http
 
 </div>
 
+<div style="font-size:0.90em; line-height:1.5em;">
+
+  <div style="display:flex; flex-wrap:wrap; gap:40px; align-items:flex-start;">
+
+    <!-- Research Interests -->
+    <div style="flex:1; min-width:280px;">
+      <h2 style="margin-bottom:0.4em;">Research Interests</h2>
+      <ul style="margin:0; padding-left:1.2em; line-height:1.0em;font-size:0.95em;">
+        <li>Computer Vision</li>
+        <li>Machine Learning</li>
+        <li>Event-based Vision</li>
+        <li>Privacy-preserving Recognition</li>
+      </ul>
+    </div>
+
+    <!-- Education -->
+  <div style="flex:1; min-width:280px;">
+    <h2 style="margin-bottom:0.4em;">Education</h2>
+
+    <ul style="margin:0; padding-left:1.2em; line-height:1.25em;">
+
+      <li style="margin-bottom:0.75em;">
+        <strong>PhD in Electrical and Computer Engineering</strong><br>
+        <span style="font-size:0.95em;">University of Missouri-Kansas City, USA</span><br>
+        <span style="font-size:0.90em; color:#666;">2021 – Present</span>
+      </li>
+
+      <li style="margin-bottom:0.75em;">
+        <strong>ME in IT Convergence Engineering</strong><br>
+        <span style="font-size:0.95em;">Gachon University, South Korea</span><br>
+        <span style="font-size:0.90em; color:#666;">2017 – 2019</span>
+      </li>
+
+      <li>
+        <strong>BE in Electronic Engineering</strong><br>
+        <span style="font-size:0.95em;">Hamdard University, Pakistan</span><br>
+        <span style="font-size:0.90em; color:#666;">2011 – 2015</span>
+      </li>
+
+    </ul>
+  </div>
+
+  </div>
+
+</div>
+
 ## News
 
 <template>
