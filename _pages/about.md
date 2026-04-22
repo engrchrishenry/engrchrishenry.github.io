@@ -9,26 +9,28 @@ redirect_from:
 
 <h2>About Me</h2>
 
-<div style="font-size:0.90em; line-height:1.2em;">
+<div style="font-size:0.90em; line-height:1.2em; margin-bottom:0.7em;">
 
 I am a PhD student working at the <a href="https://zhuli-umkc.github.io/my.home/" target="_blank">Multimedia Computing & Communication Lab</a> with <a href="https://zhuli-umkc.github.io/my.home/" target="_blank">Prof. Zhu Li</a> at the <a href="https://www.umkc.edu/" target="_blank">University of Missouri-Kansas City</a>, USA. My research lies at the intersection of computer vision and machine learning, with a current focus on event-based vision algorithms. My past work includes privacy-preserving face recognition, video deduplication, license plate recognition, and image matting.<br><br>
 
-Previously, I worked as an Intern Research Scientist/Consultant at <a href="https://www.atombeamtech.com/" target="_blank">AtomBeam Technologies</a>, where I focused on phase unwrapping for InSAR. I also worked as a PhD Intern at <a href="https://www.thalesgroup.com/en" target="_blank">Thales</a>, where I worked on contactless fingerprint recognition. I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/index.do" target="_blank">Gachon University</a>, South Korea, and BE degree in 2015 from <a href="https://www.hamdard.edu.pk/" target="_blank">Hamdard University</a>, Pakistan. At <a href="https://www.gachon.ac.kr/sites/eng/index.do" target="_blank">Gachon University</a>, I worked as a research assistant at the <a href="http://pr.gachon.ac.kr/" target="_blank">Pattern Recognition & Machine Learning Lab</a> under the supervision of <a href="https://pr.gachon.ac.kr/people-professor.html" target="_blank">Prof. Sang-Woong Lee</a>.<br><br>
+Previously, I worked as an Intern Research Scientist/Consultant at <a href="https://www.atombeamtech.com/" target="_blank">AtomBeam Technologies</a>, where I focused on phase unwrapping for InSAR. I also worked as a PhD Intern at <a href="https://www.thalesgroup.com/en" target="_blank">Thales</a>, where I worked on contactless fingerprint recognition. I earned my ME degree in 2019 from <a href="https://www.gachon.ac.kr/sites/eng/index.do" target="_blank">Gachon University</a>, South Korea, and BE degree in 2015 from <a href="https://www.hamdard.edu.pk/" target="_blank">Hamdard University</a>, Pakistan. At <a href="https://www.gachon.ac.kr/sites/eng/index.do" target="_blank">Gachon University</a>, I worked as a research assistant at the <a href="http://pr.gachon.ac.kr/" target="_blank">Pattern Recognition & Machine Learning Lab</a> under the supervision of <a href="https://pr.gachon.ac.kr/people-professor.html" target="_blank">Prof. Sang-Woong Lee</a>.
 
 </div>
 
-<div style="font-size:0.90em; line-height:1.5em;">
+<div style="font-size:0.90em; line-height:1.5em; margin-top:0em;">
 
   <div style="display:flex; flex-wrap:wrap; gap:40px; align-items:flex-start;">
 
     <!-- Research Interests -->
     <div style="flex:1; min-width:280px;">
       <h2 style="margin-bottom:0.4em;">Research Interests</h2>
-      <ul style="margin:0; padding-left:1.2em; line-height:1.1em; font-size:0.95em;">
+      <ul style="margin:0; padding-left:1.2em; line-height:1.1em; font-size:0.95em; margin-bottom:0em;">
         <li>Computer Vision</li>
         <li>Machine Learning</li>
-        <li>Event-based Computer Vision</li>
-        <li>Privacy-preserving Recognition</li>
+        <li>Event-based Vision</li>
+        <li>Biometrics</li>
+        <li>Privacy-Preserving Visual Computing</li>
+        <li>Video Retrieval and Analysis</li>
       </ul>
     </div>
 
@@ -50,7 +52,7 @@ Previously, I worked as an Intern Research Scientist/Consultant at <a href="http
           <span style="font-size:0.90em; color:#666;">2017 – 2019</span>
         </li>
 
-        <li>
+        <li style="margin-bottom:0em;">
           <strong>BE in Electronic Engineering</strong><br>
           Hamdard University, Pakistan<br>
           <span style="font-size:0.90em; color:#666;">2011 – 2015</span>
@@ -66,7 +68,7 @@ Previously, I worked as an Intern Research Scientist/Consultant at <a href="http
 ## News
 
 <template>
-<div style="font-size:0.90em; line-height:1.5em; margin-bottom:1em;">
+<div style="font-size:0.90em; line-height:1.5em; margin-bottom:1em; margin-top:0em">
 
 <p style="margin:0 0 0.4em 0;">
   <strong>03.2026</strong>: Official code release: ICIP 2024 – E2SIFT (<a href="https://github.com/engrchrishenry/E2SIFT.git" target="_blank">code</a>)
@@ -121,7 +123,7 @@ Previously, I worked as an Intern Research Scientist/Consultant at <a href="http
 
 </template>
 
-<div style="font-size:0.90em; line-height:1.2em; margin-bottom:1em;">
+<div style="font-size:0.90em; line-height:1.2em; margin-bottom:1em; margin-top:0em;">
 
   <!-- Recent news always visible -->
   <p style="margin:0 0 0.4em 0;">
