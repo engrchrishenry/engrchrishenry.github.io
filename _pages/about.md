@@ -42,20 +42,20 @@ Previously, I worked as an Intern Research Scientist/Consultant at <a href="http
 
         <li style="margin-bottom:0.75em;">
           <strong>PhD in Electrical and Computer Engineering</strong><br>
-          University of Missouri-Kansas City, USA<br>
-          <span style="font-size:0.90em; color:#666;">2021 – Present</span>
+          <em>University of Missouri-Kansas City, USA</em><br>
+          <span style="font-size:0.90em; color:#666;"><em>2021 – Present</em></span>
         </li>
 
         <li style="margin-bottom:0.75em;">
           <strong>ME in IT Convergence Engineering</strong><br>
-          Gachon University, South Korea<br>
-          <span style="font-size:0.90em; color:#666;">2017 – 2019</span>
+          <em>Gachon University, South Korea</em><br>
+          <span style="font-size:0.90em; color:#666;"><em>2017 – 2019</em></span>
         </li>
 
         <li style="margin-bottom:0em;">
           <strong>BE in Electronic Engineering</strong><br>
-          Hamdard University, Pakistan<br>
-          <span style="font-size:0.90em; color:#666;">2011 – 2015</span>
+          <em>Hamdard University, Pakistan</em><br>
+          <span style="font-size:0.90em; color:#666;"><em>2011 – 2015</em></span>
         </li>
 
       </ul>
