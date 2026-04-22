@@ -22,7 +22,7 @@ Previously, I worked as an Intern Research Scientist/Consultant at <a href="http
   <div style="display:flex; flex-wrap:wrap; gap:40px; align-items:flex-start;">
 
     <!-- Research Interests -->
-    <div style="flex:1; min-width:280px;">
+    <div style="flex:1; min-width:260px;">
       <h2 style="margin-bottom:0.4em;">Research Interests</h2>
       <ul style="margin:0; padding-left:1.2em; line-height:1.1em; font-size:0.95em; margin-bottom:0em;">
         <li>Computer Vision</li>
@@ -35,7 +35,7 @@ Previously, I worked as an Intern Research Scientist/Consultant at <a href="http
     </div>
 
     <!-- Education -->
-    <div style="flex:1; min-width:280px;">
+    <div style="flex:1; min-width:260px;">
       <h2 style="margin-bottom:0.4em;">Education</h2>
 
       <ul style="margin:0; padding-left:1.2em; line-height:1.25em; font-size:0.95em;">
