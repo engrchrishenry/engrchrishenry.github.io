@@ -24,7 +24,7 @@ Previously, I worked as an Intern Research Scientist/Consultant at <a href="http
     <!-- Research Interests -->
     <div style="flex:1; min-width:280px;">
       <h2 style="margin-bottom:0.4em;">Research Interests</h2>
-      <ul style="margin:0; padding-left:1.2em; line-height:1.25em; font-size:0.95em;">
+      <ul style="margin:0; padding-left:1.2em; line-height:1.2em; font-size:0.95em;">
         <li>Computer Vision</li>
         <li>Machine Learning</li>
         <li>Event-based Computer Vision</li>
