@@ -126,6 +126,12 @@ Previously, I worked as an Intern Research Scientist/Consultant at <a href="http
 <div style="font-size:0.90em; line-height:1.2em; margin-bottom:1em; margin-top:0em;">
 
   <!-- Recent news always visible -->
+
+  
+  <p style="margin:0 0 0.4em 0;">
+      <strong>05.2026</strong>: E2Detect code is now available <a href="https://github.com/engrchrishenry/E2Detect.git" target="_blank">here</a>.
+  </p>
+
   <p style="margin:0 0 0.4em 0;">
     <strong>02.2026 - 03.2026</strong>: Official code releases:
   </p>
@@ -137,7 +143,7 @@ Previously, I worked as an Intern Research Scientist/Consultant at <a href="http
 
   <p style="margin:0 0 0.4em 0;">
       <strong>01.2026</strong>: 1 paper accepted at IEEE ISCAS 2026.
-    </p>
+  </p>
 
   <p style="margin:0 0 0.4em 0;">
     <strong>11.2024</strong>: 1 paper accepted at IEEE T-BIOM.
@@ -151,6 +157,33 @@ Previously, I worked as an Intern Research Scientist/Consultant at <a href="http
 </div>
 
 ## Selected Publications <span style="font-size:0.8em;">(<a href="/publications/" style="font-weight:normal;">View All</a>)</span>
+
+<div class="publication">
+  <div class="pub-image">
+    <img src="/images/paper_thumbs/ISCAS_2026_E2Detect_thumb.jpg" alt="Paper Thumbnail" class="pub-thumbnail">
+  </div>
+  <div style="flex: 1;">
+    <div style="display:block; background-color:#0066CC; color:white; font-size:0.68em; font-weight:bold; padding:0.15em 0.5em; border-radius:4px; margin-bottom:0.2em; width:fit-content;">
+      ISCAS'26
+    </div>
+    <strong>E2Detect: Object Detection from Event Camera via Sparse Feature Pyramid Recovery</strong><br>
+    <span style="color:inherit; font-size:0.90em;">
+      <strong>Chris Henry</strong>, Zhu Li, Aggelos K. Katsaggelos
+    </span><br>
+    <em style="font-size:0.90em;">IEEE International Symposium on Circuits and Systems (ISCAS), 2026</em><br>
+    <div style="display: flex; gap: 0.5em;">
+      <a href="https://ieeexplore.ieee.org/document/11562756" target="_blank">
+        <img src="https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white" alt="Paper">
+      </a>
+      <a href="https://github.com/engrchrishenry/E2Detect.git" target="_blank">
+        <img src="https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+      </a>
+      <a href="https://drive.google.com/file/d/15dxRSNR03XysqtmWco6DoU4UkEMwEG55/view?usp=sharing" target="_blank">
+        <img src="https://img.shields.io/badge/Poster-%236A5ACD?style=for-the-badge&logo=google-drive&logoColor=white" alt="Poster">
+      </a>
+    </div>
+  </div>
+</div>
 
 <div class="publication">
   <div class="pub-image">

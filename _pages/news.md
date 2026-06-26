@@ -8,6 +8,11 @@ author_profile: true
 <h2>News</h2>
 
 <div style="font-size:0.90em; line-height:1.2em; margin-bottom:1em;">
+
+  <p style="margin:0 0 0.4em 0;">
+      <strong>05.2026</strong>: E2Detect code is now available <a href="https://github.com/engrchrishenry/E2Detect.git" target="_blank">here</a>.
+  </p>
+
   <p style="margin:0 0 0.4em 0;">
     <strong>02.2026 - 03.2026</strong>: Official code releases:
   </p>
