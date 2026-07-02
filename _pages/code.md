@@ -69,7 +69,7 @@ author_profile: true
 
 </div>
 
-<script>
+<!-- <script>
   document.querySelectorAll('.read-more').forEach(button => {
     button.addEventListener('click', () => {
       const desc = button.previousElementSibling;
@@ -82,5 +82,24 @@ author_profile: true
       }
     });
   });
-</script>
+</script> -->
 
+<script>
+document.querySelectorAll(".read-more").forEach(button => {
+
+    button.addEventListener("click", function () {
+
+        const desc = this.parentElement.querySelector(".desc");
+
+        if (desc.style.maxHeight === "none") {
+            desc.style.maxHeight = "90px";
+            this.textContent = "READ MORE";
+        } else {
+            desc.style.maxHeight = "none";
+            this.textContent = "READ LESS";
+        }
+
+    });
+
+});
+</script>
