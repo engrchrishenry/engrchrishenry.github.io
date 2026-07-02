@@ -69,21 +69,6 @@ author_profile: true
 
 </div>
 
-<!-- <script>
-  document.querySelectorAll('.read-more').forEach(button => {
-    button.addEventListener('click', () => {
-      const desc = button.previousElementSibling;
-      if (desc.style.maxHeight && desc.style.maxHeight !== "none") {
-        desc.style.maxHeight = "none"; // expand fully
-        button.innerText = "READ LESS";
-      } else {
-        desc.style.maxHeight = "80px"; // collapse (adjust per card if needed)
-        button.innerText = "READ MORE";
-      }
-    });
-  });
-</script> -->
-
 <script>
 document.querySelectorAll(".read-more").forEach(button => {
 
