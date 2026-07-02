@@ -12,6 +12,20 @@ author_profile: true
 
   <!-- Card 1 -->
   <div style="border:1px solid #ddd; border-radius:8px; padding:10px; text-align:center;">
+    <a href="https://github.com/engrchrishenry/E2Detect.git" target="_blank">
+      <img src="/images/paper_thumbs/ISCAS_2026_E2Detect_thumb.jpg" alt="E2Detect" style="width:59%; border-radius:5px;">
+      <h3 style="margin:10px 0 5px 0;">E2Detect: Object Detection from Event Camera via Sparse Feature Pyramid Recovery</h3>
+    </a>
+    <p class="desc" style="text-align: justify; max-height: 80px; overflow: hidden; transition: max-height 0.3s;">
+      Event cameras offer high dynamic range, no motion blur, and very high temporal resolution—capabilities that conventional RGB cameras lack and can be crucial for many vision tasks. Existing computer vision approaches struggle to operate directly on event streams due to the asynchronous and sparse nature of event data. Event-driven pipelines often require intensity image reconstruction or retraining on event-based object detection datasets, increasing the computational complexity and limiting the reusability of existing pretrained frame-based object detectors. We present E2Detect, a learning-based framework that performs object detection directly from event streams without dense intensity image reconstruction or detector retraining. Our Event Feature Pyramid Network (E-FPN) recovers a Single Shot MultiBox Detector (SSD)-compatible feature pyramid directly from event data. The recovered feature pyramid is plug-and-play compatible with the SSD detection head without requiring retraining. Experiments on ESIM-simulated event data from the REDS 120fps dataset demonstrate that our method achieves competitive AP@0.5 as compared with RGB image–based detection results.
+    </p>
+    <a href="javascript:void(0);" class="read-more" style="color:#007bff; text-decoration:none; font-weight:bold;">READ MORE</a>
+    <br>
+    <a href="https://github.com/engrchrishenry/E2Detect.git" target="_blank" style="text-decoration:none; color:#007bff;">View on GitHub</a>
+  </div>
+
+  <!-- Card 2 -->
+  <div style="border:1px solid #ddd; border-radius:8px; padding:10px; text-align:center;">
     <a href="https://github.com/engrchrishenry/lensless_face_recognition" target="_blank">
       <img src="/images/paper_thumbs/TBIOM_2024_lensless_thumb.jpg" alt="Lensless Face Recognition" style="width:59%; border-radius:5px;">
       <h3 style="margin:10px 0 5px 0;">Privacy-Preserving Face Recognition and Verification using a Lensless Camera</h3>
@@ -24,7 +38,7 @@ author_profile: true
     <a href="https://github.com/engrchrishenry/lensless_face_recognition" target="_blank" style="text-decoration:none; color:#007bff;">View on GitHub</a>
   </div>
 
-  <!-- Card 2 -->
+  <!-- Card 3 -->
   <div style="border:1px solid #ddd; border-radius:8px; padding:10px; text-align:center;">
     <a href="https://github.com/engrchrishenry/loc_aware_video_dedup" target="_blank">
       <img src="/images/paper_thumbs/TCSVT_2024_dedup_thumb.png" alt="Video Deduplication" style="width:70%; border-radius:5px;">
@@ -39,7 +53,7 @@ author_profile: true
     <a href="https://github.com/engrchrishenry/loc_aware_video_dedup" target="_blank" style="text-decoration:none; color:#007bff;">View on GitHub</a>
   </div>
 
-  <!-- Card 3 -->
+  <!-- Card 4 -->
   <div style="border:1px solid #ddd; border-radius:8px; padding:10px; text-align:center;">
     <a href="https://github.com/engrchrishenry/E2SIFT" target="_blank">
       <img src="/images/paper_thumbs/ICIP_2024_e2sift_thumb.jpg" alt="E2SIFT" style="width:70%; border-radius:5px;">
